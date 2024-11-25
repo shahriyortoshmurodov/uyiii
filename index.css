@@ -1,0 +1,151 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    background: linear-gradient(105.54deg, #f4a764 -2.93%, #ffdec2 72.14%);
+  }
+  
+  .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 26px;
+  }
+  
+  ul {
+    display: flex;
+    gap: 50px;
+    list-style: none;
+  }
+  
+  ul li a {
+    color: black;
+    font-family: "Poppins", sans-serif;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 30px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    text-decoration: none;
+  }
+  
+  .signup {
+    background-color: black;
+    color: white;
+    font-family: "Poppins", sans-serif;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 36px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    padding: 4px 30px;
+    border-radius: 20px;
+  }
+  
+  .name {
+    color: white;
+    font-family: "Sofia Sans", sans-serif;
+    font-size: 50px;
+    font-weight: 900;
+    line-height: 104.12px;
+    letter-spacing: -0.01em;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    width: 613px;
+    padding-top: 20px;
+  }
+  
+  .title {
+    font-family: "Sofia Sans", sans-serif;
+    font-size: 50px;
+    font-weight: 800;
+    line-height: 60.06px;
+    letter-spacing: -0.01em;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: black;
+    width: 613px;
+  }
+  
+  mark {
+    background-color: transparent;
+    color: white;
+  }
+  
+  .info {
+    font-family: "Poppins", sans-serif;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 45.6px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #1c141c;
+    width: 613px;
+  }
+  
+  .price {
+    font-family: "Poppins", sans-serif;
+    font-size: 70px;
+    font-weight: 700;
+    line-height: 95.9px;
+    letter-spacing: -0.01em;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: white;
+  }
+  
+  .information {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 20px;
+  }
+  
+  .hero-2 {
+    background: linear-gradient(105.54deg, #adb0b0 -2.93%, #e1e1e1 72.14%);
+  }
+  
+  .swiper {
+    width: 500px;
+  }
+  
+  .swiper-slide {
+    background-position: center;
+    background-size: cover;
+  }
+  
+  .swiper-slide img {
+    display: block;
+    width: 100%;
+    user-select: none;
+  }
+  
+  .line {
+    width: 100%;
+    color: black;
+  }
+  
+  .zero {
+    background: linear-gradient(105.54deg, #f4a764 -2.93%, #ffdec2 72.14%);
+  }
+  
+  .first {
+    background: linear-gradient(105.54deg, #adb0b0 -2.93%, #e1e1e1 72.14%);
+  }
+  
+  .second {
+    background: linear-gradient(105.54deg, #30a357 -2.93%, #75e39a 72.14%);
+  }
+  
+  .threed {
+    background: linear-gradient(105.54deg, #f24f4f -2.93%, #ffa895 72.14%);
+  }
+  
